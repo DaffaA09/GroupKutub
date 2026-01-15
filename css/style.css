@@ -217,7 +217,28 @@ nav.scrolled .nav-links a {
 .hero .year {
     font-size: 1.2em;
     opacity: 0.9;
+    margin-bottom: 20px;
+}
+
+.hero .notice {
+    font-size: 1em;
+    opacity: 0.85;
     margin-bottom: 40px;
+    padding: 10px 20px;
+    background: rgba(255, 193, 7, 0.2);
+    border-left: 4px solid rgba(255, 193, 7, 0.8);
+    border-radius: 8px;
+    display: inline-block;
+    animation: pulse 2s ease-in-out infinite;
+}
+
+@keyframes pulse {
+    0%, 100% {
+        opacity: 0.85;
+    }
+    50% {
+        opacity: 1;
+    }
 }
 
 .scroll-indicator {
