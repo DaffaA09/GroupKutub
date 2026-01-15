@@ -142,7 +142,33 @@ document.querySelectorAll('nav a').forEach(anchor => {
     });
 });
 
-// Render awal saat halaman dibuka
+// Hamburger menu toggle untuk mobile
 document.addEventListener('DOMContentLoaded', () => {
     renderStudents();
+    
+    const hamburger = document.getElementById('hamburger');
+    const navLinks = document.getElementById('navLinks');
+    
+    if (hamburger && navLinks) {
+        hamburger.addEventListener('click', () => {
+            hamburger.classList.toggle('active');
+            navLinks.classList.toggle('active');
+        });
+        
+        // Tutup menu saat klik link
+        navLinks.querySelectorAll('a').forEach(link => {
+            link.addEventListener('click', () => {
+                hamburger.classList.remove('active');
+                navLinks.classList.remove('active');
+            });
+        });
+        
+        // Tutup menu saat klik di luar
+        document.addEventListener('click', (e) => {
+            if (!hamburger.contains(e.target) && !navLinks.contains(e.target)) {
+                hamburger.classList.remove('active');
+                navLinks.classList.remove('active');
+            }
+        });
+    }
 });
