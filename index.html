@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kenangan Kelas IPA 4 - Angkatan 26</title>
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+<body>
+    <!-- Navbar -->
+    <nav id="navbar">
+            <div class="logo">
+        <a href="#home" class="logo-wrapper">
+            <img src="assets/images/LogoSMA.gif" alt="Logo SMAN 2 KS">
+            <span class="logo-text">SMAN2KS-IPA-4</span>
+        </a>
+    </div>
+
+
+        <ul class="nav-links">
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#students">Friends</a></li>
+        </ul>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+        <div class="hero-content">
+            <h1>🎓 Kenangan Group Kutub </h1>
+            <p>SMA 2 Krakatau Steel Cilegon</p>
+            <p class="year">Angkatan 2021</p>
+        </div>
+        <div class="scroll-indicator"></div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="about-section">
+        <h2>Tentang Kami</h2>
+        <p>
+            Group yang awalnya dibuat oleh keisengan oleh sebuah manusia yang dimana berawal beranggota 6 orang yang kini beratambah seiring perjalanan kita sewaktu SMA.
+            Kami adalah kumpulan teman-teman dari kelas IPA-4 SMA 2 Krakatau Steel Cilegon angkatan 2021 yang ingin mengabadikan kenangan indah selama masa SMA kami.
+            Di situs ini, kami berbagi cerita, foto, dan momen-momen berharga yang kami alami bersama selama tiga tahun terakhir.
+            Kami berharap situs ini dapat menjadi kenangan yang tak terlupakan bagi kami semua dan juga bagi siapa saja yang mengunjunginya.
+        </p>
+    </section>
+
+    <!-- Students Section -->
+    <section id="students" class="students-section">
+        <div class="section-header">
+            <h2>Teman-Teman Guweh</h2>
+            <p>Pencet Profil buat liat profil lengkap Teman luh 🥵</p>
+        </div>
+
+        <div class="search-box">
+            <input type="text" id="searchInput" placeholder="🔍 Cari nama teman...">
+        </div>
+
+        <div class="students-grid" id="studentsGrid"></div>
+        <div class="no-results" id="noResults" style="display: none;">
+            😢 Ngetik Yang Bener Kocag 
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>💙 Dibuat dengan Terpaksa kalih 🫢</p>
+        <p>IPA-4 Angkatan 2021 - SMAN2KS</p>
+    </footer>
+
+    <!-- Modal -->
+    <div class="modal" id="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button class="close-btn" onclick="closeModal()">×</button>
+                <div class="modal-avatar" id="modalAvatar"></div>
+                <h2 id="modalName"></h2>
+                <p id="modalMotto"></p>
+            </div>
+            <div class="modal-body">
+                <div class="section">
+                    <h3>📋 Biodata</h3>
+                    <div class="info-grid" id="biodataGrid"></div>
+                </div>
+
+                <div class="section">
+                    <h3>🎓 Perjalanan SMA</h3>
+                    <div class="timeline" id="timeline"></div>
+                </div>
+
+                <div class="section">
+                    <h3>📍 Alamat</h3>
+                    <div class="address-box" id="address"></div>
+                </div>
+
+                <div class="section">
+                    <h3>✨ Kehidupan Sekarang</h3>
+                    <div class="current-life-box" id="currentLife"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/data.js"></script>
+    <script src="js/main.js"></script>
+
+</body>
+</html>
