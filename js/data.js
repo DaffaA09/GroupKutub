@@ -15,24 +15,25 @@ const students = [
             { tahun: "2023", kelas: "XII", cerita: "Fokus persiapan UTBK sambil main bareng berpergian entah itu ke pandeglang jakarta dan lain lain. Momen terakhir yang paling berkesan!" }
         ],
         sekarang: "Sekarang kuliah di Telkom University Purwokerto jurusan Software engineering semester 3. Aktif di segala kepanitian HMSE dan tetap bisa main ML sama teman :)."
-    }
-    /* Data teman-teman lainnya di-comment sementara
-    ,{
-        nama: "Siti Nurhaliza",
-        panggilan: "Siti",
-        foto: "assets/images/students/siti.jpg", // Ganti dengan path foto yang benar
-        motto: "Dream big, work hard, stay humble",
-        ttl: "Bandung, 20 Juli 2006",
-        hobi: "Menyanyi, Menulis",
-        cita: "Dokter Spesialis Anak",
-        alamat: "Jl. Pahlawan No. 45, Bandung, Jawa Barat 40123",
-        perjalanan: [
-            { tahun: "2021", kelas: "X", cerita: "Ikut audisi paduan suara sekolah dan diterima! Mulai aktif di berbagai acara seni sekolah." },
-            { tahun: "2022", kelas: "XI", cerita: "Juara 1 lomba karya tulis ilmiah tingkat provinsi. Bangga banget bisa bawa nama sekolah!" },
-            { tahun: "2023", kelas: "XII", cerita: "Dipercaya jadi MC di acara perpisahan. Nangis pas nyanyi lagu perpisahan bareng teman-teman." }
-        ],
-        sekarang: "Alhamdulillah sekarang kuliah kedokteran di Universitas Padjadjaran. Walaupun sibuk banget, masih sempat nyanyi di koor kampus dan aktif nulis blog tentang kehidupan mahasiswa kedokteran."
     },
+    {
+        nama: "William Juan Sebastian Sinaga",
+        panggilan: "Juan",
+        foto: "assets/images/students/juan.jpg",
+        motto: "Keep spirit",
+        ttl: "Cilegon, 8 Januari 2006",
+        hobi: "Main game",
+        cita: "Guru Bahasa Inggris",
+        alamat: "Cilegon, Kec. Cintangkil, Kel. Warnasari",
+        perjalanan: [
+            { tahun: "2021", kelas: "X", cerita: "Awal awal masuk SMA, gak tau harus ngapain sampai akhirnya ketemu orang baik masukin ke grup buat bantu pas ujian. Karena betah, ya udah saya stay dan akhirnya ada temen juga." },
+            { tahun: "2022", kelas: "XI", cerita: "Di tahun ini gak banyak kejadian menarik selain mabar sama temen di kelas pas jamkos atau pas istirahat." },
+            { tahun: "2023", kelas: "XII", cerita: "Tahun terakhir di SMA, sama kaya pas tahun kemaren, gak banyak kejadian menarik selain mabar pas jamkos." }
+        ],
+        sekarang: "Puji Tuhan sekarang Kuliah di Untirta mengambil jurusan pendidikan bahasa Inggris."
+    },
+    /* Data teman-teman lainnya di-comment sementara
+    
     {
         nama: "Andi Wijaya",
         panggilan: "Andi",
