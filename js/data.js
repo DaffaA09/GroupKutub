@@ -32,6 +32,119 @@ const students = [
         ],
         sekarang: "Puji Tuhan sekarang Kuliah di Untirta mengambil jurusan pendidikan bahasa Inggris."
     },
+    {   
+        nama: "Naufal Azka Ghifari Sofwan",
+        panggilan: "Ayi",
+        foto: "assets/images/students/ghifari.jpeg", // Ganti dengan path foto yang benar
+        motto: "Apakah ini…?",
+        ttl: "Cilegon, Februari 05, 2006",
+        hobi: "Suka cw",
+        cita: "Menteri Persawitan",
+        alamat: "Taman Krakatau Blok J.3 No. 14",
+        perjalanan: [
+            { tahun: "2021", kelas: "X", cerita: "Masih bocah lel, ngapain yak gua, belajar naon jir. Izin, Jelek bet kelasnya retak lel, kek mau roboh wkwk, Kaget aja kek sekolah apaan ini, jamkos? Wc g ada pintu? Guru flexing? wkwkw sorry to say." },
+            { tahun: "2022", kelas: "XI", cerita: "Pada ngapain jir pek masker sok cantik jir wkwkwk, covid udh g ada lel kocak amat dh orang2. Disini masih bimbang jir, sirkel gede banget kek lahan sawit lel, paling geh bubar wkwk. Susah cari orang Loyal dan rispek" },
+            { tahun: "2023", kelas: "XII", cerita: ` Banyak kenangan jir, udh pda membuka diri wkwk, seru dah , pada rispek juga walaupun pada gaje, Semua kek dipaksa  saling happy/kenal/ lebih deket gitu jadi yaaa. 
+                        Bukan kahh iniii…(Stress 🫩..)` }
+        ],
+        sekarang: "Sekarang, gua nulis ini Januari 2026, Alhamdulillah Puji Tuhan gw menempuh pendidikan Sarjana Ilmu Hukum, di Universitas Bakwan, Malang Jatim. yaa so far okelah, smoga bisa terus lancar sampai dunia kerja nanti. Semoga member kutub juga sehat dan diberi kemudahan dan keberkahan semuanya, Amiiinnn."
+    },
+    {
+        nama: "Jembar Ciptarama Buana",
+        panggilan: "Mbar",
+        foto: "assets/images/students/jembar.jpeg",
+        motto: "Masih muda gaboleh banyak ngeluh",
+        ttl: "Cilegon, 12 Oktober 2005",
+        hobi: "Cari duit",
+        cita: "orang kaya",
+        alamat: "Komplek H.Arif 2",
+        perjalanan: [
+            { tahun: "2021", kelas: "X", cerita: "Zaman zaman masih covid pake masker dan kelas online selama satu semester dan zaman dimana saya masih introvert(pendiam), punya temen cuma dion yg akrab sisa nya yah temen biasa." },
+            { tahun: "2022", kelas: "XI", cerita: "Zaman - zaman pendidikan paskibra, gak fokus belajar fokus nya pendidikan dan yap saya deket sama seseorang yang saat ini jadi pelajaran hidup." },
+            { tahun: "2023", kelas: "XII", cerita: "Zaman bucin banget, punya cewe yg deket dari kelas 11 waktu latihan saman, yah zaman zaman yg paling berkesan disini paling bahagia sampe lupa sama tujuan diri sendiri dan berakhir jadi gemuk." }
+        ],
+        sekarang: "Bekerja di bidang K3 di PT.Sankyu Indonesia International."
+    },
+    {
+        nama: "Muhammad Lutfi Ilham",
+        panggilan: "Ilham",
+        foto: "",
+        motto: "membanjiri pikiranku dengan Almussy",
+        ttl: "Cilegon, 26 Januari 2006",
+        hobi: "-",
+        cita: "-",
+        alamat: "Jl. sastradikarta No.81",
+        perjalanan: [
+            { tahun: "2021", kelas: "X", cerita: "-" },
+            { tahun: "2022", kelas: "XI", cerita: "-" },
+            { tahun: "2023", kelas: "XII", cerita: "-" }
+        ],
+        sekarang: "Mahasigma Di kampus IPB Kelaz emang ."
+    },
+    {
+        nama: "Dionisius Widhartono",
+        panggilan: "Doni",
+        foto: "",
+        motto: "hidup memang pahit,yang manis cuma senyemnya Ghifari",
+        ttl: "Cilegon, 08 November 2006",
+        hobi: "-",
+        cita: "-",
+        alamat: "Taman Cilegon Indah F9",
+        perjalanan: [
+            { tahun: "2021", kelas: "X", cerita: "-" },
+            { tahun: "2022", kelas: "XI", cerita: "-" },
+            { tahun: "2023", kelas: "XII", cerita: "-" }
+        ],
+        sekarang: "Mahasigma Di kampus Binus Tempatnya para Cici."
+    },
+    {
+        nama: "Muhammad ilzam Haqqi J.P.",
+        panggilan: "Iljam",
+        foto: "",
+        motto: "Jika Anda takut gagal,maka anda tidak pantas sukses",
+        ttl: "Sukoharjo, 06 April 2006",
+        hobi: "-",
+        cita: "-",
+        alamat: "Jl. semangraya No.44 komplek KS",
+        perjalanan: [
+            { tahun: "2021", kelas: "X", cerita: "-" },
+            { tahun: "2022", kelas: "XI", cerita: "-" },
+            { tahun: "2023", kelas: "XII", cerita: "- " }
+        ],
+        sekarang: "Mahasigma D1 Di UNS Ketemu Pria Solo Terus ."
+    },
+    {
+        nama: "Muhammad Haris Danindra",
+        panggilan: "Hamris",
+        foto: "",
+        motto: "=",
+        ttl: "Cilegon, 66 September 2005",
+        hobi: "-",
+        cita: "-",
+        alamat: "Bukit Palm Hills",
+        perjalanan: [
+            { tahun: "2021", kelas: "X", cerita: "-" },
+            { tahun: "2022", kelas: "XI", cerita: "-" },
+            { tahun: "2023", kelas: "XII", cerita: "- " }
+        ],
+        sekarang: "Awalnya Kuliah Di ITENNAS bandung ga tau napa bisa pindah jadi Anak Untirta GG Emang Gap 1 Year.... ."
+    },
+    {
+        nama: "Muhammad Miftahulloh",
+        panggilan: "Miftah",
+        foto: "",
+        motto: "-",
+        ttl: "Cilegon, 10 Januari 2006",
+        hobi: "-",
+        cita: "-",
+        alamat: "Komplek PCI Blok E34 No. 05 Nirwana XXI",
+        perjalanan: [
+            { tahun: "2021", kelas: "X", cerita: "-" },
+            { tahun: "2022", kelas: "XI", cerita: "-" },
+            { tahun: "2023", kelas: "XII", cerita: "- " }
+        ],
+        sekarang: "Mahasigma Di kampus IPB Kelaz emang ."
+    },
     /* Data teman-teman lainnya di-comment sementara
     
     {
@@ -100,4 +213,5 @@ const students = [
     }
     */
 ];
+
 
