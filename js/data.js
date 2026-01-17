@@ -71,47 +71,47 @@ const students = [
         foto: "assets/images/students/lutfi.jpeg",
         motto: "membanjiri pikiranku dengan Almussy",
         ttl: "Cilegon, 26 Januari 2006",
-        hobi: "-",
-        cita: "-",
+        hobi: "Main Cewek Haluw,Carbeat",
+        cita: "Menteri Perhutanan",
         alamat: "Jl. sastradikarta No.81",
         perjalanan: [
             { tahun: "2021", kelas: "X", cerita: "-" },
             { tahun: "2022", kelas: "XI", cerita: "-" },
             { tahun: "2023", kelas: "XII", cerita: "-" }
         ],
-        sekarang: "Mahasigma Di kampus IPB Kelaz emang ."
+        sekarang: "Mahasigma Di kampus IPB Kelaz emang,when yah ."
     },
     {
         nama: "Dionisius Widhartono",
         panggilan: "Doni",
         foto: "assets/images/students/dion.jpeg",
-        motto: "hidup memang pahit,yang manis cuma senyemnya Ghifari",
+        motto: "hidup memang pahit,yang manis cuma senyumnya Mas Ghifari, Awww 😻",
         ttl: "Cilegon, 08 November 2006",
-        hobi: "-",
-        cita: "-",
+        hobi: "Jajan,Haluin Grup K-pop",
+        cita: "Buka Toko",
         alamat: "Taman Cilegon Indah F9",
         perjalanan: [
             { tahun: "2021", kelas: "X", cerita: "-" },
             { tahun: "2022", kelas: "XI", cerita: "-" },
             { tahun: "2023", kelas: "XII", cerita: "-" }
         ],
-        sekarang: "Mahasigma Di kampus Binus Tempatnya para Cici."
+        sekarang: "Mahasigma Di kampus Binus Tempatnya para Cici Geloo Bisa Gonta Ganti My..."
     },
     {
         nama: "Muhammad ilzam Haqqi J.P.",
         panggilan: "Iljam",
-        foto: "",
+        foto: "assets/images/students/ilzam.jpeg",
         motto: "Jika Anda takut gagal,maka anda tidak pantas sukses",
         ttl: "Sukoharjo, 06 April 2006",
-        hobi: "-",
-        cita: "-",
+        hobi: "Main Emel Push Pake Argus",
+        cita: "Jadi Pria Solo V2",
         alamat: "Jl. semangraya No.44 komplek KS",
         perjalanan: [
             { tahun: "2021", kelas: "X", cerita: "-" },
             { tahun: "2022", kelas: "XI", cerita: "-" },
             { tahun: "2023", kelas: "XII", cerita: "- " }
         ],
-        sekarang: "Mahasigma D1 Di UNS Ketemu Pria Solo Terus ."
+        sekarang: "Mahasigma D1 Di UNS Ketemu Pria Solo Terus ampe muag katanya ."
     },
     {
         nama: "Muhammad Haris Danindra",
@@ -119,8 +119,8 @@ const students = [
         foto: "assets/images/students/haris.jpeg",
         motto: "=",
         ttl: "Cilegon, 66 September 2005",
-        hobi: "-",
-        cita: "-",
+        hobi: "Wibu,Event Tahunan YTTA",
+        cita: "Nikah sama wifu",
         alamat: "Bukit Palm Hills",
         perjalanan: [
             { tahun: "2021", kelas: "X", cerita: "-" },
@@ -132,18 +132,18 @@ const students = [
     {
         nama: "Muhammad Miftahulloh",
         panggilan: "Miftah",
-        foto: "assets/images/students/miftah.jpeg",
+        foto: "assets/images/students/miptah.jpeg",
         motto: "-",
         ttl: "Cilegon, 10 Januari 2006",
-        hobi: "-",
-        cita: "-",
+        hobi: "Motoran Pake Honda CB",
+        cita: "gangster Motor",
         alamat: "Komplek PCI Blok E34 No. 05 Nirwana XXI",
         perjalanan: [
             { tahun: "2021", kelas: "X", cerita: "-" },
             { tahun: "2022", kelas: "XI", cerita: "-" },
             { tahun: "2023", kelas: "XII", cerita: "- " }
         ],
-        sekarang: "Mahasigma Di kampus IPB Kelaz emang ."
+        sekarang: "Mahasigma Di kampus Untirta Jurusan Hukum Katanya Biar bisa debat sama Mas Ayi adu argumen terkait Kinerja Pria Solo ."
     },
     /* Data teman-teman lainnya di-comment sementara
     
@@ -213,6 +213,7 @@ const students = [
     }
     */
 ];
+
 
 
 
