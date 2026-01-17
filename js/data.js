@@ -68,7 +68,7 @@ const students = [
     {
         nama: "Muhammad Lutfi Ilham",
         panggilan: "Ilham",
-        foto: "",
+        foto: "assets/images/students/lutfi.jpeg",
         motto: "membanjiri pikiranku dengan Almussy",
         ttl: "Cilegon, 26 Januari 2006",
         hobi: "-",
@@ -84,7 +84,7 @@ const students = [
     {
         nama: "Dionisius Widhartono",
         panggilan: "Doni",
-        foto: "",
+        foto: "assets/images/students/dion.jpeg",
         motto: "hidup memang pahit,yang manis cuma senyemnya Ghifari",
         ttl: "Cilegon, 08 November 2006",
         hobi: "-",
@@ -116,7 +116,7 @@ const students = [
     {
         nama: "Muhammad Haris Danindra",
         panggilan: "Hamris",
-        foto: "",
+        foto: "assets/images/students/haris.jpeg",
         motto: "=",
         ttl: "Cilegon, 66 September 2005",
         hobi: "-",
@@ -132,7 +132,7 @@ const students = [
     {
         nama: "Muhammad Miftahulloh",
         panggilan: "Miftah",
-        foto: "",
+        foto: "assets/images/students/miftah.jpeg",
         motto: "-",
         ttl: "Cilegon, 10 Januari 2006",
         hobi: "-",
@@ -213,5 +213,6 @@ const students = [
     }
     */
 ];
+
 
 
