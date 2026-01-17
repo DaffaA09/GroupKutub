@@ -36,9 +36,9 @@ const students = [
         nama: "Naufal Azka Ghifari Sofwan",
         panggilan: "Ayi",
         foto: "assets/images/students/ghifari.jpeg", // Ganti dengan path foto yang benar
-        motto: "Apakah ini…?",
+        motto: "Apakah ini… (Stres Carbeat 🫩)?",
         ttl: "Cilegon, Februari 05, 2006",
-        hobi: "Suka cw",
+        hobi: "Suka cw,Jadi Carbeat",
         cita: "Menteri Persawitan",
         alamat: "Taman Krakatau Blok J.3 No. 14",
         perjalanan: [
@@ -213,6 +213,7 @@ const students = [
     }
     */
 ];
+
 
 
 
