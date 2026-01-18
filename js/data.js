@@ -132,18 +132,18 @@ const students = [
     {
         nama: "Muhammad Miftahulloh",
         panggilan: "Miftah",
-        foto: "assets/images/students/miptah.jpeg",
-        motto: "-",
-        ttl: "Cilegon, 10 Januari 2006",
-        hobi: "Motoran Pake Honda CB",
-        cita: "gangster Motor",
-        alamat: "Komplek PCI Blok E34 No. 05 Nirwana XXI",
+        foto: "assets/images/students/Miftahh.jpeg",
+        motto: "sekali layar terkembang, surut kita berpantang",
+        ttl: "Cilegon, 29 mei 2006",
+        hobi: "nonton persib",
+        cita: "gantiin bahlil",
+        alamat: "Grand Cilegon Residence cluster Jasmine,",
         perjalanan: [
-            { tahun: "2021", kelas: "X", cerita: "-" },
-            { tahun: "2022", kelas: "XI", cerita: "-" },
-            { tahun: "2023", kelas: "XII", cerita: "- " }
+            { tahun: "2021", kelas: "X", cerita: "awal masuk masih malu malu yang kenal juga baru dua nopal sama rey karna nopal temen tk,rey temen sd tapi abis tu kenal juga sama yang lain mencoba extrovert padahal introvert" },
+            { tahun: "2022", kelas: "XI", cerita: "Mulai punya temen sibuk osis segala ya mulai punya sirkel tapi sirkelnya ga jelas karna ada masalah sama satu orang gw dikeluarin terus gw yaudah jadi manusia fleksibel terus ketemu kutub dan berusaha masuk mana aja" },
+            { tahun: "2023", kelas: "XII", cerita: "Sebenernya banyak banget kenangan disini tapi sayangnya waktu kita bentaran doang terus lg sibuk² nya les kek tiap hr dipikir mah ngapain ya kek ngejar ptn banget tapi yaudah terus jga ada butan yang dimana momen perpisahan kita sayangnya ga ada perpisahan gara² pemerintah kocak" }
         ],
-        sekarang: "Mahasigma Di kampus Untirta Jurusan Hukum Katanya Biar bisa debat sama Mas Ayi adu argumen terkait Kinerja Pria Solo ."
+        sekarang: "sekarang gw di tahun 2026 gw masih menempuh kuliah di untirta jurusan hukum semester 4 ya semoga kuliah gw lancar sehingga cita cita gw untuk menggantikan bapa bahlil nanti tercapai udah si gitu aja..."
     },
     /* Data teman-teman lainnya di-comment sementara
     
