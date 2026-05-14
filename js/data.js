@@ -132,7 +132,7 @@ const students = [
     {
         nama: "Muhammad Miftahulloh",
         panggilan: "Miftah",
-        foto: "assets/images/students/Miftahh.jpeg",
+        foto: "assets/images/students/Miftah.jpeg",
         motto: "sekali layar terkembang, surut kita berpantang",
         ttl: "Cilegon, 29 mei 2006",
         hobi: "nonton persib",
